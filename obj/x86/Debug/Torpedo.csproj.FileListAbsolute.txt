@@ -1,0 +1,5 @@
+C:\Users\Sunder\Documents\Visual Studio 2010\Projects\Torpedo\bin\Debug\hw.txt
+C:\Users\Sunder\Documents\Visual Studio 2010\Projects\Torpedo\bin\Debug\torpedo.exe
+C:\Users\Sunder\Documents\Visual Studio 2010\Projects\Torpedo\bin\Debug\torpedo.pdb
+C:\Users\Sunder\Documents\Visual Studio 2010\Projects\Torpedo\obj\x86\Debug\torpedo.exe
+C:\Users\Sunder\Documents\Visual Studio 2010\Projects\Torpedo\obj\x86\Debug\torpedo.pdb
